@@ -1,9 +1,7 @@
 import React from "react";
 
-const Button: React.FC = () => {
-  return (
-    <button>Click Me</button>
-  );
+const LayoutButton: React.FC = () => {
+  return <button>Layout Button</button>;
 };
 
-export default Button;
+export default LayoutButton;
